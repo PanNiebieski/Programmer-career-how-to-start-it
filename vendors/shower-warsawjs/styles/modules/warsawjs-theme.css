@@ -18,10 +18,12 @@ body {
 .slide h2 {
     color: #f7302f;
     font-weight: normal;
+    
 }
 
 .slide h2.shout {
     color: black;
+
 }
 
 .slide h2 small {
@@ -32,6 +34,52 @@ body {
 .slide h2 em {
     color: #f0db4f;
     font-style: normal;
+}
+
+.colors {
+    line-height: 150% !important;
+    font-size: 70px !important;
+}
+
+.sss {
+    border-color: rgb(139, 28, 28);
+    border-style: solid;
+    border-width: 20px 20px 20px 20px;
+}
+
+.green {
+    background-color: rgb(39, 175, 39);
+    color:white;
+    padding: 5px;
+}
+
+.yellow {
+    background-color: orange;
+    color:white;
+    padding: 5px;
+}
+
+.pruple {
+    background-color:purple;
+    color:white;
+    padding: 5px;
+}
+.blue {
+    background-color:blue;
+    color:white;
+    padding: 5px;
+}
+
+.blue2 {
+    background-color:rgb(0, 153, 255);
+    color:white;
+    padding: 5px;
+}
+
+.blue3 {
+    background-color:rgb(0, 225, 255);
+    color:white;
+    padding: 5px;
 }
 
 /* -------------------------------------------------------------------------- */
