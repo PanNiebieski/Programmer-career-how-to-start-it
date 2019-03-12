@@ -53,6 +53,13 @@ body {
     padding: 5px;
 }
 
+.red {
+    background-color: red;
+    color:white;
+    padding: 5px;
+}
+
+
 .yellow {
     background-color: orange;
     color:white;
